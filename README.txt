@@ -1,3 +1,9 @@
+In case of building project on Ubuntu 11.10 (64-bits, maybe 32-bits also):
+install these 2 packages
+
+qtmobility-dev
+libdeclarative-multimedia
+
 1. About qtmm
 
 Qtmm is a very simple AFSK1200 decoder that uses the soundcard as input device.
